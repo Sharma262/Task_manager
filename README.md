@@ -21,6 +21,3 @@ Experience task and challenge management without the headache. Task Manager stre
 1. Visit [Task Manager](https://iTasks.vercel.app) in your web browser.
 
 2. Start managing your tasks and challenges effortlessly!
-
-That's it! No need to clone the repository or open index.html manually. Dive into Task Manager and boost your productivity today! 🚀 #Task Manager #ProductivityRevolution
-
